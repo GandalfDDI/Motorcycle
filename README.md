@@ -10,3 +10,4 @@ Obviously to send me e-mail just put the preceding two together --> Username@E-M
 
 Convert_gpx_to_Google_Plot_V1.6.ps1 - This GPX was tested with Motorcycle tracks but will work for ANY kind of GPX file. It will also work if you take your GPX device to take a hike and input the GPX file
 
+Convert_gpx_to_2000_points_V1.0.ps1 - When you want to make a plot of your entire trip and there are more than 2000 points, Google will only plot 2000. This script takes every out every Nth point so that the sum total points is less than 2000
