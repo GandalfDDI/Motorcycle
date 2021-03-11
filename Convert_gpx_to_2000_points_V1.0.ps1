@@ -1,6 +1,8 @@
 #################################################################################################################
 # Convert_gpx_to_2000_points_VX.Y.ps1 - Convert a excel file that has over 2000 points to less than that
 # So that Google Maps will show the entire route
+#
+# Github - https://github.com/GandalfDDI/Motorcycle
 # 
 # Input - .csv File of all the routes combined taken from the Convert_gpx_to_Google_Plot_VX.Y.ps1 output
 #
